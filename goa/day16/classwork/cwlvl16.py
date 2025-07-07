@@ -1,0 +1,10 @@
+upd=(input("please enter your name"))
+ugg=(input("please enter your age"))
+iik=(input("please enter your surname"))
+
+ook=(input("please enter any num"))
+iil=(input("please enter any num"))
+print(ook+iil)
+print(ook-iil)
+print(ook/iil)
+print(ook*iil)
