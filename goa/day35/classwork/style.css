@@ -1,0 +1,11 @@
+#class{
+    text-decoration:overline dashed red;
+}
+
+#class1{
+    text-decoration:underline wavy purple ;
+}
+
+#class2{
+    text-decoration: line-through dashed blue;
+}
